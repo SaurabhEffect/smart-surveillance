@@ -21,8 +21,6 @@ This system uses your webcam to detect faces, plays a sound alert when someone i
 
 ## Project Structure
 
-## Project Structure
-
 smart-surveillance/
 
 ├── intruders/           → Folder to store detected face snapshots  
