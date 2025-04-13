@@ -21,7 +21,14 @@ This system uses your webcam to detect faces, plays a sound alert when someone i
 
 ## Project Structure
 
-<pre> ## Project Structure ``` smart-surveillance/ ├── intruders/ # Folder to store detected face snapshots ├── main.py # Main Python script ├── requirements.txt # Project dependencies └── README.md # Project documentation ``` </pre>
+## Project Structure
+
+smart-surveillance/
+
+├── intruders/           → Folder to store detected face snapshots  
+├── main.py              → Main Python script  
+├── requirements.txt     → Project dependencies  
+└── README.md            → Project documentation
 
 ## Installation & Setup
 
